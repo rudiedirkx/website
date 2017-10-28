@@ -1,4 +1,4 @@
-[Home]({% link / %}) | [About]({% link about.md %})
+[Home](/) | [About]({% link about.md %})
 
 # Rudie's homepage
 
