@@ -1,5 +1,3 @@
-{% include menu.md %}
-
 # Rudie's homepage
 
 Welcome to my homepage!
