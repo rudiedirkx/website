@@ -1,4 +1,4 @@
-[Home]({{ site.baseurl }}) \| [About]({{ site.baseurl }}{% link about.md %})
+{% include menu.md %}
 
 # Rudie's homepage
 
