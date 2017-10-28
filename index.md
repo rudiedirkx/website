@@ -1,4 +1,4 @@
-[Home]({{ link / }}) | [About]({{ link /about.html }})
+[Home]({% link / %}) | [About]({% link /about.html %})
 
 # Rudie's homepage
 
