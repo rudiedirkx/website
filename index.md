@@ -2,4 +2,4 @@
 
 Welcome to my homepage!
 
-![Under construction](images/uc.gif)
+![Under construction](/images/uc.gif)
