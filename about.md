@@ -1,4 +1,6 @@
-# About Rudie
+---
+title: About Rudie
+---
 
 Rudie's is the best bastard!
 
