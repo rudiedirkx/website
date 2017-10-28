@@ -4,11 +4,13 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	 <title>Rudie's homepage!</title>
+	 <title>{{ page.title }} - Rudie's homepage!</title>
 </head>
 
 <body>
 	{% include menu.md %}
+	
+	<h1>{{ page.title }}</h1>
 	
 	{{ content }}
 </body>
