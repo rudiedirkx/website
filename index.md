@@ -1,4 +1,6 @@
-# Rudie's homepage
+---
+title: Rudie's homepage
+---
 
 Welcome to my homepage!
 
